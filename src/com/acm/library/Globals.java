@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.acm.library;
 
 public class Globals {
 	public static final String PROD_ENV = "/app/src/main";

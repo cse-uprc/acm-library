@@ -1,2 +1,0 @@
-install:
-   - bash ./gradlew clean -Pgroup=com.github.sambutler1017 build install -xtest
