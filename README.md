@@ -34,13 +34,16 @@ This package contains global variables used for the apps microservices. They are
    
    ## Section 6
    ### Developers and Codeowners
-   Josue Van Dyke - josuemvd@gmail.com
+   
+    Josue Van Dyke - josuemvd@gmail.com
 
     Sam Butler - sambutler1017@icloud.com
 
     Kiyle Winborne - kiyleawinborne@gmail.com
     
     Luke Lengel - steven.lengel@rockets.utoledo.edu
+    
+    Seth Hancock - shancoc3@rockets.utoledo.edu
     
     
    
